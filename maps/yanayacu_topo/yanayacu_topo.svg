@@ -7,12 +7,12 @@
    viewBox="0 0 1200 675"
    version="1.1"
    id="svg8167"
-   sodipodi:docname="yanayacu_topo6.svg"
+   sodipodi:docname="yanayacu_topo7.svg"
    xml:space="preserve"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="yanayacu_topo4.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-filename="yanayacu_topo6.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -30,15 +30,15 @@
      showgrid="false"
      guidecolor="#ff0000"
      guideopacity="0.6"
-     inkscape:zoom="5.12"
-     inkscape:cx="99.121094"
-     inkscape:cy="2512.6953"
-     inkscape:window-width="1733"
-     inkscape:window-height="919"
-     inkscape:window-x="183"
-     inkscape:window-y="212"
+     inkscape:zoom="0.64"
+     inkscape:cx="714.84375"
+     inkscape:cy="1901.5625"
+     inkscape:window-width="1373"
+     inkscape:window-height="487"
+     inkscape:window-x="25"
+     inkscape:window-y="709"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8167"
+     inkscape:current-layer="raster"
      inkscape:lockguides="true"><sodipodi:guide
        position="0,664.99999"
        orientation="0,1"
@@ -4779,7 +4779,39 @@
    width="47"
    height="32"
    transform="matrix(154.68,0,0,-157.29,41259.53,22405.23)"
-   xlink:href="../../../Maperitive/output/relief_638543156646443800.12.png" />
+   xlink:href="data:image/png;base64,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
+RU5ErkJggg==
+" />
 		</g>
 	</g><g
          id="Line_artwork"
